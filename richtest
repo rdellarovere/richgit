@@ -1,2 +1,4 @@
 Test File
 ls -lrt sort by time in reverse order
+root@ubunturich:/home/richard/richtest# git add richtest
+root@ubunturich:/home/richard/richtest# git commit -m 'First Commit'
